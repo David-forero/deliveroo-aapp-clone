@@ -50,9 +50,6 @@ const RestaurantScreeen = () => {
         }))
     }, [])
 
-    console.log('dishes ->', dishes);
-    
-
     useLayoutEffect(() => {
         navigation.setOptions({
             headerShown: false

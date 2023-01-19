@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d7dfc79a-f560-4a61-becb-acdeb18e01e2"
+      }
+    },
+    "owner": "daele"
   }
 }

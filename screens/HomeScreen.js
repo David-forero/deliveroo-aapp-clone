@@ -33,8 +33,6 @@ const HomeScreen = () => {
       })
   }, []);
 
-  console.log(featuredCategories);
-
 
   return (
     <SafeAreaView
